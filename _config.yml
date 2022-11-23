@@ -19,9 +19,9 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpymmm                          # the main title
+title: The Good Bot Auto                          # the main title
 
-tagline: Addd text-focused Jekyll theme   # it will display as the sub-title
+tagline: Studies, Rumblings, and More   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal,ggggg responsive, and powerful Jekyll theme for presenting professional writing.
@@ -33,7 +33,7 @@ github:
   username: thegoodbotauto             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: TyrantClam            # change to your twitter username
 
 social:
   # Change to your full name.
